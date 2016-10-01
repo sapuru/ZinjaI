@@ -1,0 +1,2 @@
+# ZinjaI
+Ejercicios en Pseudocódigo
